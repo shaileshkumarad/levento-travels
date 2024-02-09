@@ -20,7 +20,7 @@
 .hero-part {
   height: 90vh;
   width: 100%;
-  background-image: url("./Images/background-image.jpg");
+  background-image: url("../Images/background-image.jpg");
   background-size: cover;
 }
 
