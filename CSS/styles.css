@@ -1,0 +1,60 @@
+#logo {
+  height: 3rem;
+}
+
+.navbar {
+  background-color: rgba(231, 231, 231, 0.707);
+}
+
+.nav-link {
+  font-family: 'Protest Strike', sans-serif;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+.dropdown-menu {
+  display: none;
+}
+
+.hero-part {
+  height: 90vh;
+  width: 100%;
+  background-image: url("/Images/background-image.jpg");
+  background-size: cover;
+}
+
+.heading-text {
+  font-family: 'PT Serif', serif;
+  font-weight: 900;
+  margin: 0;
+}
+
+#location {
+  color: #243300;
+}
+
+.hero {
+  display: flex;
+  padding-top: 50px;
+  flex-direction: column;
+  align-items: center; 
+}
+
+.book-button {
+  padding: 10px 20px; 
+  margin-top: 70px; 
+  background-color: #8db3a5; 
+  color: #09332b; 
+  border: none; 
+  border-radius: 5px; 
+  cursor: pointer;
+  font-size: 1.5rem;
+  font-family: 'PT Serif', serif;
+}
+
+.book-button:hover {
+  background-color: #224202;
+  font-size: 1.8rem; 
+  color: #d8ebc5;
+}
